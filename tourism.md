@@ -9,6 +9,7 @@
       <th>价格</th>
     </tr>
   </thead>
+  <tbody>
   <tr>
       <td rowspan=2>1.18</td>
       <td>下午</td>
@@ -35,6 +36,7 @@
       <td>Z232</td>
     <td>车费：315.5</td>
   </tr>
+  </tbody>
     
 
 ## 兰州 1.16-1.18
